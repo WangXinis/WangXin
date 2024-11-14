@@ -1,9 +1,8 @@
-<div align="center">
-  <a href="https://blog.sunguoqi.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=海内存知己,天涯若比邻&center=true&size=27" alt="Typing SVG" />
-  </a>
-</div>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WangXin/WangXin/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WangXin/WangXin/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WangXin/WangXin/output/github-contribution-grid-snake.svg">
+</picture>
 
 ### 个人简介
 - 🐕 姓名: WangXin
